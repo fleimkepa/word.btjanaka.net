@@ -9,5 +9,5 @@ published: true
 post_date: 2020-08-29 07:49:26
 ---
 <!-- wp:paragraph -->
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>Words. Two words. An obsession with words. Why do they call it Wordpress? The wordy world may never know...</p>
 <!-- /wp:paragraph -->
